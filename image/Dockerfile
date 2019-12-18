@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=ubuntu:18.04
+ARG BASE_IMAGE=ubuntu:focal-20191030
 FROM $BASE_IMAGE
 MAINTAINER Phusion <info@phusion.nl>
 
