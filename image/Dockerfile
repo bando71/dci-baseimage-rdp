@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=ubuntu:bionic-20191202
+ARG BASE_IMAGE=ubuntu:bionic-20200112
 FROM $BASE_IMAGE
 MAINTAINER Phusion <info@phusion.nl>
 
